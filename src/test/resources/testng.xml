@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="smoke1" >
+        <classes>
+            <!--<class name="tests.Negative.AuthorizationNegative"/>
+            <class name="tests.Negative.MainScreenAptekaRuNegative"/>-->
+            <class name="tests.Positive.AuthorizationPositive"/>
+            <class name="tests.Positive.MainScreenAptekaRuPositive"/>
+        </classes>
+    </test>
+</suite>

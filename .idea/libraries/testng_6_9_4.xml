@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testng-6.9.4">
+    <CLASSES>
+      <root url="jar://D:/AppiumFiles/testng-6.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AppiumFiles/testng-6.9.4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
